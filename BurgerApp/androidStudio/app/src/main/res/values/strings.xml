@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DemoLoginApp</string>
+    <string name="order_now">Order now!</string>
+</resources>
